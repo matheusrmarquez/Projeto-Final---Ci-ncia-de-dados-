@@ -29,3 +29,8 @@ projeto_previsao_vendas/
 ├── requirements.txt
 └── README.md
 ```
+## 🎥 Demonstração em vídeo
+
+Veja a execução do projeto no vídeo abaixo:
+
+🔗 [Clique aqui para assistir no YouTube](https://youtu.be/1bGe0YYX5NA)
